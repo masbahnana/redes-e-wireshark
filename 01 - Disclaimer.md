@@ -6,3 +6,4 @@ share: true
 O conteúdo a seguir pode estar numa ordem diferente do que estamos acostumados a ver nas literaturas padrões.
 
 ### Disclaimer 2
+Esse conteúdo está em constante mudança.
