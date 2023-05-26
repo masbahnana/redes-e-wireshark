@@ -16,12 +16,12 @@ Seguem alguns termos que vamos abordar nesse conteúdo:
 ## Firewall:
 Que significa barreira, pode ser um software que impõe quais tipos de tráfegos de redes são permitidos ou não.
 
-## Network Interace:
+## Network Interface:
 "Interfaces de rede" são interfaces que permitem que você se conecte com uma rede privada ou publica. São essas interfaces que fornecem um software para utilizar o hardware de rede.
+> curiosidade: O hardware mais comum de interface de redes se chama Network Interface Cards/Cartões de interface de rede (NIC's) que tambem podem ser virtuais.
 
 ## NAT:
 Apesar de ser assim que o @gomex me chama, NAT significa **Network Adress Translator (Tradutor de endereços de rede)** é o que permite que as redes externas sejam traduzidas o/ou mapeadas pada os dispositivos da rede local.
-> curiosidade: O hardware mais comum de interface de redes se chama Network Interface Cards/Cartões de interface de rede (NIC's) que tambem podem ser virtuais.
 
 ## Router:
 Também conhecido como o seu roteador, ou seja, é um dispositivo que transfere os dados em diferentes redes. É o roteador que faz as solicitações a internet e que as informações nos sejam enviadas de volta para a nossa rede local.
