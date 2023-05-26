@@ -4,7 +4,7 @@ share: true
 ## Mas primeiro, o que é um protocolo? 
 
 A palavra protocolo pode ter diversas definições, mas em resumo a palavra quer dizer "conjunto de regras".
-Estamos Falando de redes de internet, isso quer dizer que, e sobre um conjunto de regras, por exemplo: como um dispositivo se comunica com um ou mais dispositivos.
+Estamos falando de redes de internet, isso quer dizer que, e sobre um conjunto de regras, por exemplo: como um dispositivo se comunica com um ou mais dispositivos.
 
 ![IMG_53A292C69ECE-1](https://github.com/masbahnana/redes-e-wireshark/assets/35573203/e6e70c87-d2c5-4351-898b-d23ef1121749)
 
