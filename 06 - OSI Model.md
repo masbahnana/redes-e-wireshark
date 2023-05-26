@@ -16,6 +16,12 @@ O modelo é dividido em 7 camadas e cada uma delas define um conjunto de regras 
 
 O modelo OSI foi desenvolvido para dividir o trabalho em diferentes níveis da rede, com cada nível possuindo padrões específicos que regulam a comunicação naquela camada. Essas camadas ajudam a estabelecer uma hierarquia de protocolos para a comunicação de redes locais e a internet aberta.
 
-A camada mais alta do modelo, a camada de **aplicativo**, que utiliza vários #protocolos em nível de aplicativo para a comunicação. A camada mais baixa chamada de camada **física** é onde os dados são transferidos em bits.
+A camada mais alta do modelo, a camada de **aplicativo**, que utiliza vários protocolos em nível de aplicativo para a comunicação. A camada mais baixa chamada de camada **física** é onde os dados são transferidos em bits.
+
+Cada camada é capaz de receber informações e passá-las para a próxima camada da pilha de protocolos, adicionando as informações de controle a mensagens e transmitindo-as através de uma interface. A camada de origem determina a camada de destino final lá no receptor.
+
+
+![[Drawing 2023-05-26 21.51.11.excalidraw]]
+
 
 [[05 - O que é um protocolo?]]
