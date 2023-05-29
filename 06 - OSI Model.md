@@ -20,4 +20,4 @@ A camada mais alta do modelo, a camada de **aplicativo**, que utiliza vários pr
 
 Cada camada é capaz de receber informações e passá-las para a próxima camada da pilha de protocolos, adicionando as informações de controle a mensagens e transmitindo-as através de uma interface. A camada de origem determina a camada de destino final lá no receptor.
 
-[camadas](imagens/Camadas OSI.png)
+![camadas](./imagens/Camadas OSI.png)
