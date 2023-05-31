@@ -24,4 +24,7 @@ Cada camada é capaz de receber informações e passá-las para a próxima camad
 ![[Drawing 2023-05-26 21.51.11.excalidraw]]
 
 ![camadas](./imagens/camadas.png)
+
+
+
 [[05 - O que é um protocolo?]]
