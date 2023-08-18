@@ -7,9 +7,7 @@ share: true
 O Three-way handshake é um processo de estabelecimento de conexão entre dois dispositivos em uma rede e envolve três passos:
 
 ![camadas](./imagens/hosts-three-way.png)
-
 ![[hosts-three-way]]
-
 - 1º passo: o dispositivo *A* envia uma mensagem solicitando uma conexão que se chama *"SYN" (de synchronize/sincronização)* para o dispositivo *B*;
 - 2º passo: o dispositivo *B* envia uma mensagem confirmando a conexão, chamada de *"SYN/ACK" (synchroniza-acknowledgn/sincronizar-conhecer)* em resposta a mensagem *SYN* do dispositivo *A*;
 - 3º passo: o dispositivo *A* envia uma mensagem de confirmação chamada de *"ACK"* (acknowledge/conhece) em resposta a mensagem *SYN/ACK* do dispositivo *B*.
