@@ -9,4 +9,4 @@ O conteúdo a seguir pode estar numa ordem diferente do que estamos acostumados 
 Esse conteúdo está em constante mudança.
 
 ### Disclaimer 3
-Esse conteúdo foi escrito via Obsidian que foi enviado para o Github e publicado no Gitbook (obrigada as integrações e automações). Então fique a vontade para baixar esse repositório, abrir o Obsidian e usar o mapa mental.
+Esse conteúdo foi escrito via Obsidian que foi enviado para o Github e publicado no Gitbook (obrigada as integrações e automações).
